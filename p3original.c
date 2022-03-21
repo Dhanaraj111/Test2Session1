@@ -30,6 +30,7 @@ void output(int n,int is_prime)
 }
 void main()
 {
+ 
   int n,y;
   n=input_number();
   y=is_prime(n);
